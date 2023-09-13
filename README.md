@@ -1,16 +1,19 @@
-# mongodb_loginreg
+# flutter_mongodb_Login-Registration
 
-A new Flutter project.
+Flutter Project which consists Signup and SignIn Page with Authentication using MongoDB as a database.
 
-## Getting Started
+SignUp Page:
+<br />
+![image](https://github.com/Daxrajsinh/flutter_mongodb_Login-Registration/assets/107194145/0fffb544-2c8a-4089-a8ff-aafd91b701c6)
 
-This project is a starting point for a Flutter application.
+<br /><br />
 
-A few resources to get you started if this is your first Flutter project:
+SignIn Page:
+<br />
+![image](https://github.com/Daxrajsinh/flutter_mongodb_Login-Registration/assets/107194145/a2df135b-80c4-4fa0-8bb6-2b50ed8e9365)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br /><br />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Authentication Successful:
+<br />
+![image](https://github.com/Daxrajsinh/flutter_mongodb_Login-Registration/assets/107194145/5296d2b4-0352-4624-8751-8ed2bd4b5196)
